@@ -1,3 +1,11 @@
 # Análise Exploratória de Dados 
 
-## Projeto desenvolvido em Python para a Área de Varejo no curso da Data Science Academy
+## Recursos Utilizados no Projeto:
+
+  Numpy
+  Pandas 
+  Matplotlib 
+  Seaborn  
+  Datetime
+
+## Projeto Desenvolvido no Curso de Fundamentos de Pyhton Para Análise de Dados da Data Science Academy
